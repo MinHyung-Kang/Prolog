@@ -1,0 +1,184 @@
+people
+Amy | Slacker
+Bob | Academic
+Christine | Academic
+David | Entrepreneur
+Elizabeth | Money Grubber
+Frank | Slacker
+Gabrielle | Money Grubber
+Harry | Entrepreneur
+Isabelle | Money Grubber
+Jeff | Academic
+Kelly | Slacker
+Lance | Money Grubber
+Mary | Academic
+Nick | Slacker
+Olivia | Academic
+Pete | Entrepreneur
+Quiana | Entrepreneur
+Rick | Slacker
+Sarah | Slacker
+Tim | Money Grubber
+
+offers
+Amy | InnoTech | Big Software Firm | Washington, DC
+Amy | Hofferman Smith-Daniels | Investment Bank | Boston
+Amy | Stanguard | Grad School | NYC
+Bob | Stanguard | Grad School | NYC
+Bob | Bigup-Side | Startup | Washington, DC
+Bob | Integral Derivatives | Investment Bank | Chicago
+Bob | Mortgages-R-Us | Investment Bank | NYC
+Christine | Integral Derivatives | Investment Bank | Chicago
+Christine | Mortgages-R-Us | Investment Bank | NYC
+Christine | Irreverent Technologies | Startup | NYC
+Christine | SocialNET | Startup | Boston
+Christine | C-King Capital | Startup | Chicago
+David | ExcelMacroEconomics | Investment Bank | Washington, DC
+David | C-King Capital | Startup | Chicago
+David | Advantech | Big Software Firm | San Francisco
+David | Glitter | Startup | San Francisco
+David | Bigup-Side | Startup | Washington, DC
+David | Fleeting Assets | Investment Bank | San Francisco
+David | InnoTech | Big Software Firm | Washington, DC
+David | Artistic Electronics | Big Software Firm | Boston
+David | Developers-R-Us | Big Software Firm | NYC
+David | Haverland University | Grad School | Chicago
+David | NobleChoice | Grad School | San Francisco
+David | Dartboard Modeling | Hedge Fund | Boston
+David | Arbitrack | Hedge Fund | NYC
+David | GammaRaise Capital | Hedge Fund | San Francisco
+David | Integral Derivatives | Investment Bank | Chicago
+Elizabeth | Dartboard Modeling | Hedge Fund | Boston
+Elizabeth | Venus Systems | Big Software Firm | Chicago
+Elizabeth | BetterLucky Strategies | Hedge Fund | Chicago
+Elizabeth | Fleeting Assets | Investment Bank | San Francisco
+Elizabeth | Irreverent Technologies | Startup | NYC
+Frank | NobleChoice | Grad School | San Francisco
+Frank | Stanguard | Grad School | NYC
+Frank | ExcelMacroEconomics | Investment Bank | Washington, DC
+Frank | InnoTech | Big Software Firm | Washington, DC
+Gabrielle | GammaRaise Capital | Hedge Fund | San Francisco
+Gabrielle | Integral Derivatives | Investment Bank | Chicago
+Gabrielle | Fleeting Assets | Investment Bank | San Francisco
+Gabrielle | Glitter | Startup | San Francisco
+Gabrielle | Advantech | Big Software Firm | San Francisco
+Gabrielle | Stanguard | Grad School | NYC
+Gabrielle | U-Research | Grad School | Boston
+Gabrielle | Haverland University | Grad School | Chicago
+Gabrielle | SocialNET | Startup | Boston
+Gabrielle | Hofferman Smith-Daniels | Investment Bank | Boston
+Harry | Venus Systems | Big Software Firm | Chicago
+Harry | Questionable Tactics | Hedge Fund | Washington, DC
+Harry | C-King Capital | Startup | Chicago
+Isabelle | SocialNET | Startup | Boston
+Isabelle | Artistic Electronics | Big Software Firm | Boston
+Isabelle | Bigup-Side | Startup | Washington, DC
+Isabelle | Arbitrack | Hedge Fund | NYC
+Jeff | Glitter | Startup | San Francisco
+Jeff | InnoTech | Big Software Firm | Washington, DC
+Jeff | Artistic Electronics | Big Software Firm | Boston
+Jeff | Hofferman Smith-Daniels | Investment Bank | Boston
+Jeff | BetterLucky Strategies | Hedge Fund | Chicago
+Jeff | Questionable Tactics | Hedge Fund | Washington, DC
+Jeff | GammaRaise Capital | Hedge Fund | San Francisco
+Jeff | U-Research | Grad School | Boston
+Jeff | Haverland University | Grad School | Chicago
+Jeff | Fleeting Assets | Investment Bank | San Francisco
+Kelly | U-Research | Grad School | Boston
+Kelly | GammaRaise Capital | Hedge Fund | San Francisco
+Lance | Developers-R-Us | Big Software Firm | NYC
+Lance | Bigup-Side | Startup | Washington, DC
+Lance | InnoTech | Big Software Firm | Washington, DC
+Lance | Advantech | Big Software Firm | San Francisco
+Lance | NobleChoice | Grad School | San Francisco
+Mary | SocialNET | Startup | Boston
+Mary | Mortgages-R-Us | Investment Bank | NYC
+Nick | Hofferman Smith-Daniels | Investment Bank | Boston
+Nick | Stanguard | Grad School | NYC
+Nick | SocialNET | Startup | Boston
+Nick | Arbitrack | Hedge Fund | NYC
+Olivia | Arbitrack | Hedge Fund | NYC
+Olivia | Knowledgopoly | Grad School | Washington, DC
+Olivia | C-King Capital | Startup | Chicago
+Olivia | Venus Systems | Big Software Firm | Chicago
+Olivia | ExcelMacroEconomics | Investment Bank | Washington, DC
+Olivia | Developers-R-Us | Big Software Firm | NYC
+Olivia | SocialNET | Startup | Boston
+Pete | Venus Systems | Big Software Firm | Chicago
+Pete | Arbitrack | Hedge Fund | NYC
+Pete | Glitter | Startup | San Francisco
+Pete | GammaRaise Capital | Hedge Fund | San Francisco
+Pete | Artistic Electronics | Big Software Firm | Boston
+Pete | Questionable Tactics | Hedge Fund | Washington, DC
+Pete | ExcelMacroEconomics | Investment Bank | Washington, DC
+Pete | Developers-R-Us | Big Software Firm | NYC
+Pete | Fleeting Assets | Investment Bank | San Francisco
+Pete | Knowledgopoly | Grad School | Washington, DC
+Pete | U-Research | Grad School | Boston
+Pete | Dartboard Modeling | Hedge Fund | Boston
+Pete | Stanguard | Grad School | NYC
+Pete | Advantech | Big Software Firm | San Francisco
+Pete | Hofferman Smith-Daniels | Investment Bank | Boston
+Pete | BetterLucky Strategies | Hedge Fund | Chicago
+Pete | C-King Capital | Startup | Chicago
+Pete | SocialNET | Startup | Boston
+Quiana | ExcelMacroEconomics | Investment Bank | Washington, DC
+Quiana | BetterLucky Strategies | Hedge Fund | Chicago
+Quiana | Dartboard Modeling | Hedge Fund | Boston
+Quiana | Glitter | Startup | San Francisco
+Quiana | SocialNET | Startup | Boston
+Quiana | Knowledgopoly | Grad School | Washington, DC
+Quiana | Artistic Electronics | Big Software Firm | Boston
+Quiana | Mortgages-R-Us | Investment Bank | NYC
+Quiana | Haverland University | Grad School | Chicago
+Quiana | Arbitrack | Hedge Fund | NYC
+Rick | Venus Systems | Big Software Firm | Chicago
+Rick | Dartboard Modeling | Hedge Fund | Boston
+Rick | Irreverent Technologies | Startup | NYC
+Sarah | InnoTech | Big Software Firm | Washington, DC
+Sarah | Artistic Electronics | Big Software Firm | Boston
+Sarah | BetterLucky Strategies | Hedge Fund | Chicago
+Sarah | Mortgages-R-Us | Investment Bank | NYC
+Tim | Knowledgopoly | Grad School | Washington, DC
+Tim | C-King Capital | Startup | Chicago
+Tim | SocialNET | Startup | Boston
+Tim | Stanguard | Grad School | NYC
+Tim | Hofferman Smith-Daniels | Investment Bank | Boston
+Tim | Advantech | Big Software Firm | San Francisco
+Tim | Bigup-Side | Startup | Washington, DC
+Tim | GammaRaise Capital | Hedge Fund | San Francisco
+Tim | Haverland University | Grad School | Chicago
+Tim | Arbitrack | Hedge Fund | NYC
+Tim | Artistic Electronics | Big Software Firm | Boston
+
+relationships
+Amy | Bob | Mortal Enemies
+Amy | David | Married
+Amy | Elizabeth | Friends
+Amy | Kelly | Friends
+Amy | Lance | Mortal Enemies
+Amy | Sarah | Mortal Enemies
+Bob | Quiana | Friends
+Christine | Tim | Friends
+David | Gabrielle | Mortal Enemies
+David | Harry | Mortal Enemies
+Elizabeth | Isabelle | Friends
+Elizabeth | Jeff | Dating
+Elizabeth | Nick | Friends
+Elizabeth | Pete | Friends
+Frank | Harry | Mortal Enemies
+Frank | Isabelle | Dating
+Frank | Pete | Friends
+Frank | Rick | Friends
+Frank | Tim | Friends
+Harry | Nick | Friends
+Harry | Rick | Friends
+Isabelle | Jeff | Friends
+Isabelle | Kelly | Friends
+Isabelle | Lance | Friends
+Jeff | Lance | Friends
+Jeff | Mary | Friends
+Kelly | Lance | Dating
+Nick | Rick | Mortal Enemies
+Nick | Tim | Mortal Enemies
+Olivia | Sarah | Mortal Enemies

@@ -1,0 +1,23 @@
+people
+Amy | Academic
+Bob | Entrepreneur
+Charlie | Money Grubber
+
+
+
+
+offers
+Amy | MacroHard | Big Software Firm | Seattle
+Amy | Stanguard College | Grad School | San Francisco
+Amy | Dartboard Modeling | Hedge Fund | NYC
+Bob | Bigup-Side | Startup | NYC
+Bob | Questionable Tactics | Hedge Fund | San Francisco
+Charlie | Cash-Money Inc. | Investment Bank | NYC
+Charlie | Arbitrack | Hedge Fund | San Francisco
+
+
+
+
+relationships
+Bob | Amy | Dating
+Bob | Charlie | Mortal Enemies
